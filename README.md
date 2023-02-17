@@ -6,6 +6,7 @@ How are MyAnimeList scores calculated?
 All scores given in the database are calculated as a weighted score.
 
 Weighted Score = (v / (v + m)) * S + (m / (v + m)) * C
+
 S = Average score for the anime/manga
 v = Number users giving a score for the anime/manga †
 m = Minimum number of scored users required to get a calculated score
