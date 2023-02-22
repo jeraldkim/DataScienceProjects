@@ -1,6 +1,6 @@
 # DataScienceProjects
 
-Created a CSV File that I webscraped off of myanimelist.net of the top 10,000 animes. Took some understanding of time.sleep() in python to make sure the server doesn't block access for too many requests (02/16/2023).
+Created a CSV File that I webscraped off of myanimelist.net of the top 24,000 animes. Took some understanding of time.sleep() in python to make sure the server doesn't block access for too many requests (02/21/2023).
 
 How are MyAnimeList scores calculated?
 All scores given in the database are calculated as a weighted score.
